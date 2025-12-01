@@ -1,0 +1,8 @@
+# Mistakes and Fixes — PowerShell Automation
+
+Issue: Script execution was blocked.
+Fix: Updated the execution policy temporarily:
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+
+Issue: Output files overwrote each other.
+Fix: Used different filenames for each command and separated them into a Logs folder.

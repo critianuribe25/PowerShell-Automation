@@ -1,0 +1,16 @@
+# Commands Used — PowerShell Automation
+
+# Navigate to project folder
+Set-Location C:\ITPortfolio\Project1_PowerShell\
+
+# Create folders
+New-Item -ItemType Directory -Path .\Logs
+New-Item -ItemType Directory -Path .\Scripts
+
+# Test commands
+Get-Process
+Get-Service
+systeminfo
+
+# Run script
+.\collect-system-info.ps1

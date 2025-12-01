@@ -38,3 +38,18 @@ This project focuses on using **PowerShell** to automate basic IT tasks such as 
 - How to use PowerShell for automation  
 - The basics of scripting system tasks  
 - Why automation is valuable in IT support and cloud roles  
+
+---
+
+## 🛠 Skills Demonstrated
+- Windows PowerShell scripting
+- Automation basics
+- System info collection
+- Log generation
+- File/folder creation
+- Task automation workflows
+
+---
+
+**Status:** In Progress  
+**Expected Completion:** December 23, 2025

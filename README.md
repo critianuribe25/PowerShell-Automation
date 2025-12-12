@@ -64,23 +64,6 @@ Deletes a local user account.
 
 ---
 
-## 📁 Repository Structure
-PowerShell-Automation/
-│
-├── README.md
-│
-├── screenshots/
-│   └── powershell_user_script.png
-│
-├── systeminfo.txt
-│
-└── scripts/
-    ├── create-user.ps1
-    ├── remove-user.ps1
-    └── export-systeminfo.ps1
-
----
-
 ## 📚 Tools Used
 - Windows PowerShell
 - Built-in cmdlets: New-LocalUser, Get-ComputerInfo, Out-File, Remove-LocalUser
